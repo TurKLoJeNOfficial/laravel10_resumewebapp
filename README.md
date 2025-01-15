@@ -1,5 +1,17 @@
 # Resume (CV) Web App 
 
+## Main Page
+
+![image](https://github.com/user-attachments/assets/64823260-5884-4b37-aae3-badcaafdffb4)
+
+## Admin Panel
+
+![image](https://github.com/user-attachments/assets/e044dbe2-b9f9-4586-a9a3-d8632e5c8499)
+![image](https://github.com/user-attachments/assets/a6eac555-0dfa-4eaa-8903-8a4e0726f6ca)
+![image](https://github.com/user-attachments/assets/0a380cee-0156-4a87-9443-a7bbe8529c96)
+![image](https://github.com/user-attachments/assets/6590f3e1-979f-4e5b-b30b-48313ef91be0)
+![image](https://github.com/user-attachments/assets/53eb6370-a67a-4ec7-a273-6ddf0a02c691)
+![image](https://github.com/user-attachments/assets/8d3ba879-7a3d-4bf3-bafd-6204596d1646)
 
 
 
