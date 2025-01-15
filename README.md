@@ -35,7 +35,7 @@ This project is a rewrite of the resume/CV site that I had previously developed 
 
 ## Additional Details  
 
-For the **work experience**, **education**, and **project** sections, if the `Finish Date` field is left blank, it will automatically be displayed as **"Current"**.  
+For the **work experience** and **education**,  sections, if the `Finish Date` field is left blank, it will automatically be displayed as **"Current"**.  
 
 ---
 
