@@ -1,4 +1,46 @@
-# Resume (CV) Web App 
+# Resume CV Application with Laravel 10
+
+This project is a rewrite of the resume/CV site that I had previously developed using ASP.NET and PHP. This time, I rebuilt it from scratch with Laravel 10. The main purpose of this project was to learn and gain experience with the Laravel framework, which turned out to be a valuable experience for me.  
+
+## Features  
+
+- **Profile Management**  
+  - Edit profile information  
+  - Update profile picture  
+  - Update password  
+
+- **Skills Management**  
+  - Add, update, and delete skills  
+
+- **Languages Management**  
+  - Add, update, and delete languages  
+
+- **References Management**  
+  - Add, update, and delete references  
+
+- **Work Experience Management**  
+  - Add, update, and delete work experiences  
+
+- **Education Management**  
+  - Add, update, and delete education details  
+
+- **Projects Management**  
+  - Add, update, and delete projects  
+
+- **Certificates Management**  
+  - Add, update, and delete certificates  
+
+- **Site Settings**  
+  - Update site settings  
+
+## Additional Details  
+
+For the **work experience**, **education**, and **project** sections, if the `Finish Date` field is left blank, it will automatically be displayed as **"Current"**.  
+
+---
+
+Feel free to explore and customize the project to suit your needs. Feedback is always welcome! 😊
+
 
 ## Main Page
 
